@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me 👨🏻‍💻
 
-[Link to another page](./another-page.html).
+Hello! I'm Fabio, currently pursuing a master's degree in Computer Science at Università degli Studi di Udine. My studies focus on **cybersecurity**, **artificial intelligence**, **automated verification**, and **distributed systems**. I recently completed my bachelor's degree in Computer Science with top honors 🎓, and I'm eager to continue learning and growing in the field.
 
-There should be whitespace between paragraphs.
+I'm particularly interested in exploring how **security** can be effectively implemented in modern systems. For my bachelor thesis, I had the opportunity to work with technologies like **Open Policy Agent (OPA)** and **Rego**, using them to improve access control in microservices architectures by providing custom state management to enhance decision-making in dynamic systems.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I enjoy learning about new technologies and applying my programming skills to real-world challenges.
 
-# Header 1
+**Key Interests:**
+- Cybersecurity 🔒
+- Distributed Systems 🌐
+- Automated Reasoning and Model Checking 🔍
+- Logics 🧠
+- Artificial Intelligence 👨🏻‍💻
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+# Publications 📚
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+This section will be updated soon with my latest research and publications.
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Guitar Career 🎸
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Outside of my academic life, I'm passionate about music 🎶 and have been playing the guitar for many years. It's something I deeply enjoy and try to balance with my technical pursuits. Over the years, I've performed at several events and honed my skills in various musical styles.
 
-#### Header 4
+My guitar journey has been deeply rewarding, providing a creative balance to my technical pursuits. I love sharing my passion for music, whether through performances or simply enjoying time with the instrument.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+I play in an acoustic duo, **Two Notes**, where we explore a wide range of genres and styles. You can check out us and our performances on [Two Notes' Instagram page](https://www.instagram.com/twonotes.duo/){:target="_blank"}.
 
-##### Header 5
+I also serve on the board of directors for **Sound Promotion**, the music school in my hometown, where we strive to nurture local musical talent. You can check out more about our activities on [Sound Promotion's Instagram page](https://www.instagram.com/_soundpromotion_/){:target="_blank"}.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thanks for visiting my portfolio, and feel free to reach out! 📬
