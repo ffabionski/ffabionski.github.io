@@ -21,7 +21,9 @@ I enjoy learning about new technologies and applying my programming skills to re
 
 # Publications 📚
 
-This section will be updated soon with my latest research and publications.
+Visit also my [Google Scholar](https://scholar.google.it/citations?user=PaYhQsIAAAAJ&hl=it).
+
+- [Baldo, M., Ion, F. I., Miculan, M., Paier, M., & Riccio, V. OWSM: Empowering Rego for Stateful Access Control.](https://p1ndsvin.github.io/assets/pdf/itasec25.pdf){:target="_blank"}
 
 ---
 
