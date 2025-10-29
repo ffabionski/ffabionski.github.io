@@ -6,16 +6,15 @@ layout: default
 
 Hello! I'm Fabio, currently pursuing a master's degree in Computer Science at Università degli Studi di Udine. I recently completed my bachelor's degree in Computer Science with top honors 🎓, and I'm eager to continue learning and growing in the field.
 
-I'm particularly interested in exploring how **security** can be effectively implemented in modern systems. For my bachelor thesis, I had the opportunity to work with technologies like **Open Policy Agent (OPA)** and **Rego**, using them to improve access control in microservices architectures by providing custom state management to enhance decision-making in dynamic systems.
+For my bachelor thesis, I had the opportunity to work with technologies like **Open Policy Agent (OPA)** and **Rego**, using them to improve access control in microservices architectures by providing custom state management to enhance decision-making in dynamic systems.
 
 I enjoy learning about new technologies and applying my programming skills to real-world challenges.
 
 **Key Interests:**
-- Formal Methods 📝
 - Logics 🧠
-- Model Checking 🔍
-- Cybersecurity 🔒
 - Artificial Intelligence 👨🏻‍💻
+- Formal Methods 📝
+- Model Checking 🔍
 
 ---
 
