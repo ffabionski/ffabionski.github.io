@@ -13,8 +13,9 @@ I enjoy learning about new technologies and applying my programming skills to re
 **Key Interests:**
 - Logics 🧠
 - Artificial Intelligence 👨🏻‍💻
+- Explainable AI 🤖
+- Inductive Logic Programming 🧮
 - Formal Methods 📝
-- Model Checking 🔍
 
 ---
 
@@ -32,9 +33,9 @@ Outside of my academic life, I'm passionate about music 🎶 and have been playi
 
 My guitar journey has been deeply rewarding, providing a creative balance to my technical pursuits. I love sharing my passion for music, whether through performances or simply enjoying time with the instrument.
 
-I play in an acoustic duo, **Two Notes**, where we explore a wide range of genres and styles. You can check out us and our performances on [Two Notes' Instagram page](https://www.instagram.com/twonotes.duo/){:target="_blank"}.
+I play in an *acoustic duo*, **Two Notes**, where we explore a wide range of genres and styles. You can check out our performance and follow us on [Two Notes' Instagram page](https://www.instagram.com/twonotes.duo/){:target="_blank"}.
 
-I also serve on the board of directors for **Sound Promotion**, the music school in my hometown, where we strive to nurture local musical talent. You can check out more about our activities on [Sound Promotion's Instagram page](https://www.instagram.com/_soundpromotion_/){:target="_blank"}.
+I also *teach guitar* at **Sound Promotion**, the music school in my hometown, where we strive to nurture local musical talent. You can check out more about our activities on [Sound Promotion's Instagram page](https://www.instagram.com/_soundpromotion_/){:target="_blank"}.
 
 ---
 
